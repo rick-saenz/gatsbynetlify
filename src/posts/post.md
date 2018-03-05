@@ -1,13 +1,13 @@
 ---
 title: Welcome to the new blog
 date: '2018-03-02'
-image: /static/assets/screen shot 2018-02-21 at 12.01.17 pm.png
+image: /static/assets/screen.png
 ---
 Beard roof party cardigan locavore you probably haven't heard of them squid artisan edison bulb whatever normcore jianbing succulents. Bitters kickstarter before they sold out 8-bit, af blue bottle DIY paleo iceland microdosing brooklyn vinyl fingerstache. Gentrify adaptogen raw denim heirloom. XOXO distillery try-hard, deep v gluten-free fanny pack adaptogen everyday carry VHS trust fund green juice twee cold-pressed jianbing. Readymade migas pitchfork pinterest cliche, keffiyeh asymmetrical hoodie lumbersexual subway tile man bun four loko drinking vinegar tofu. YOLO pinterest try-hard pok pok echo park tacos.
 
 <!--- end --->
 
-![Syntax podcast](/static/assets/screen.png)
+![Syntax podcast](/assets/screen.png)
 
 * this
 * is
